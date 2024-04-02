@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "fname": "Bama",
+      "lname": "S",
+      "age": "59",
+      "city": "Pudukkottai",
+      "id": "1"
+    },
+    {
+      "fname": "Ajith",
+      "lname": "Kumar",
+      "age": "20",
+      "city": "Chennai",
+      "id": "2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "registeruser": [
+    {
+      "id": "2121",
+      "email": "Ajith@gmail.com",
+      "password": "123",
+      "prof_pic": "https://w0.peakpx.com/wallpaper/564/586/HD-wallpaper-thala-ajith-colorful-sketch-art-work-actor-south-indian.jpg"
+    },
+    {
+      "id": "d6c4",
+      "email": "JavaASD",
+      "password": "javaASD",
+      "prof_pic": "asD"
+    }
+  ]
+}
